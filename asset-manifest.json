@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/social-sharing/static/css/main.5f73fd77.chunk.css",
+    "main.css": "/social-sharing/static/css/main.bdb9eec6.chunk.css",
     "main.js": "/social-sharing/static/js/main.cb333f53.chunk.js",
     "main.js.map": "/social-sharing/static/js/main.cb333f53.chunk.js.map",
     "runtime-main.js": "/social-sharing/static/js/runtime-main.5209f53d.js",
@@ -8,15 +8,15 @@
     "static/js/2.be8ec7a4.chunk.js": "/social-sharing/static/js/2.be8ec7a4.chunk.js",
     "static/js/2.be8ec7a4.chunk.js.map": "/social-sharing/static/js/2.be8ec7a4.chunk.js.map",
     "index.html": "/social-sharing/index.html",
-    "precache-manifest.4f94b7767cc2737add43d5d83df862fa.js": "/social-sharing/precache-manifest.4f94b7767cc2737add43d5d83df862fa.js",
+    "precache-manifest.bf9beb10f49046d44c682253cb721943.js": "/social-sharing/precache-manifest.bf9beb10f49046d44c682253cb721943.js",
     "service-worker.js": "/social-sharing/service-worker.js",
-    "static/css/main.5f73fd77.chunk.css.map": "/social-sharing/static/css/main.5f73fd77.chunk.css.map",
+    "static/css/main.bdb9eec6.chunk.css.map": "/social-sharing/static/css/main.bdb9eec6.chunk.css.map",
     "static/js/2.be8ec7a4.chunk.js.LICENSE.txt": "/social-sharing/static/js/2.be8ec7a4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.5209f53d.js",
     "static/js/2.be8ec7a4.chunk.js",
-    "static/css/main.5f73fd77.chunk.css",
+    "static/css/main.bdb9eec6.chunk.css",
     "static/js/main.cb333f53.chunk.js"
   ]
 }
